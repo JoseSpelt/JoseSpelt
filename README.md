@@ -12,7 +12,7 @@
 
 <br>
 
-- Actualmente trabajo como **Programador Backend Junior**, desarrollando e integrando soluciones en entornos productivos.
+- Actualmente trabajo como **Programador Backend**, desarrollando e integrando soluciones en entornos productivos.
 - Estoy en mi **5° año de Ingeniería Informática**, consolidando mis conocimientos tanto académicos como profesionales.
 - Tengo experiencia en **C# (.NET), Java, SQL Server, PostgreSQL y MongoDB**, aplicados en proyectos reales y académicos.
 - He trabajado en la **integración de APIs, manejo de datos JSON, automatización de procesos** y optimización de consultas en bases de datos.
