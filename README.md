@@ -1,43 +1,46 @@
 <h1 align="center"><b>Hola, soy Jose Spelt </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+a+todos..!+&hearts;++;Desarrollador+Backend+Junior,;Estudiante+de+Ingeniería+Informática,;Entusiasta+de+la+Tecnología,;Siempre+aprendiendo+nuevas+cosas..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Backend;Estudiante+de+Ingeniería+Informática;Apasionado+por+la+Tecnología;Siempre+aprendiendo+y+mejorando..!">
+  </a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mí**
-
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre Mí**
 
 <br>
 
-- Soy estudiante de 4to año de Ingeniería Informática con conocimientos a nivel junior en Java, C#, y PostgreSQL.
-- A través de mis proyectos personales, he mejorado continuamente mi lógica de programación y desarrollado aplicaciones utilizando diversas tecnologías.
-- Tengo experiencia en la integración y uso de APIs, así como en el manejo de archivos JSON y la gestión de bases de datos SQL.
-- Estoy siempre buscando oportunidades para aprender y crecer, tanto en el ámbito académico como en el profesional, y estoy entusiasmado por contribuir con mis conocimientos y habilidades en futuros proyectos.
+- Actualmente trabajo como **Programador Backend Junior**, desarrollando e integrando soluciones en entornos productivos.
+- Estoy en mi **5° año de Ingeniería Informática**, consolidando mis conocimientos tanto académicos como profesionales.
+- Tengo experiencia en **C# (.NET), Java, SQL Server, PostgreSQL y MongoDB**, aplicados en proyectos reales y académicos.
+- He trabajado en la **integración de APIs, manejo de datos JSON, automatización de procesos** y optimización de consultas en bases de datos.
+- Me apasiona aprender nuevas tecnologías, mejorar mis buenas prácticas de programación y aportar en proyectos que generen impacto.
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades</b>
 <br>
 
 <p align="center">
 
 - **Lenguajes**:
     
+    ![C#](https://img.shields.io/badge/C%23%20-.NET-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <br>   
     
 - **Desarrollo Backend**:
 
+   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+   ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-   ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![APIs](https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 
 <br>
 
@@ -45,12 +48,14 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+    ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
-## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align='left'>
 
